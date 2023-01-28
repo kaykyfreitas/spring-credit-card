@@ -1,6 +1,6 @@
-package dev.kaykyfreitas.springboottemplate.service;
+package dev.kaykyfreitas.creditcardvalidator.service;
 
-import dev.kaykyfreitas.springboottemplate.exception.TokenException;
+import dev.kaykyfreitas.creditcardvalidator.exception.TokenException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

@@ -1,4 +1,4 @@
-package dev.kaykyfreitas.springboottemplate.config;
+package dev.kaykyfreitas.creditcardvalidator.config;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;

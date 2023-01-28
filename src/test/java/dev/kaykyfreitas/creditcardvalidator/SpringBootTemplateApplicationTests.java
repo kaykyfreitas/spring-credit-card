@@ -1,4 +1,4 @@
-package dev.kaykyfreitas.springboottemplate;
+package dev.kaykyfreitas.creditcardvalidator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package dev.kaykyfreitas.springboottemplate.controller;
+package dev.kaykyfreitas.creditcardvalidator.controller;
 
-import dev.kaykyfreitas.springboottemplate.service.TokenService;
+import dev.kaykyfreitas.creditcardvalidator.service.TokenService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.Authentication;

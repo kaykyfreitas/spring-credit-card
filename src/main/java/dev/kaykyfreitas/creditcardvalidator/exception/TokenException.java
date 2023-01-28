@@ -1,4 +1,4 @@
-package dev.kaykyfreitas.springboottemplate.exception;
+package dev.kaykyfreitas.creditcardvalidator.exception;
 
 public class TokenException extends RuntimeException{
 

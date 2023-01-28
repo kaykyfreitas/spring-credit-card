@@ -1,4 +1,4 @@
-package dev.kaykyfreitas.springboottemplate.config.security;
+package dev.kaykyfreitas.creditcardvalidator.config.security;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
